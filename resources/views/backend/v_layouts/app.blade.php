@@ -244,7 +244,7 @@
       <!-- footer -->
       <!-- ============================================================== -->
       <footer class="footer text-center">
-        Copyright &copy; 2024 | Toko Online | by Yuris Alkhalifi
+        Copyright &copy; 2024 | Toko Online | by Gandara Fathurrahman
       </footer>
       <!-- ============================================================== -->
       <!-- End footer -->
