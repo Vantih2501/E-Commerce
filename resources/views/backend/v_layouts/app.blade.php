@@ -177,8 +177,11 @@
                 </li>
               </ul>
             </li>
+<<<<<<< HEAD
             <li class="sidebar-item"> <a href="sidebar-link waves-effect waves-dark sidebar-link" href="{{ route('backend.customer.index') }} " aria-expanded></a>
             </li>
+=======
+>>>>>>> 6311f2850201e879f9506922b3f5e44e3841b3ab
           </ul>
         </nav>
         <!-- End Sidebar navigation -->
